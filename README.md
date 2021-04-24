@@ -2,7 +2,7 @@
 Language: [English](README.md) | [中文简体](README-ZH.md)
 
 
-# json_model [![Pub](https://img.shields.io/pub/v/json_model.svg?style=flat-square)](https://pub.dartlang.org/packages/json_model)
+# json_model_updated [![Pub](https://img.shields.io/pub/v/json_model.svg?style=flat-square)](https://pub.dartlang.org/packages/json_model_updated)
 
 Gernerating Dart model class from Json file.
 
